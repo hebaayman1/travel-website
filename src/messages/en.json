@@ -1,0 +1,98 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact",
+    "contactBtn": "Contact Us"
+  },
+  "hero": {
+    "title": "Explore the World with Us",
+    "description": "Discover amazing destinations and create unforgettable memories with our premium travel services. Your journey begins here.",
+    "cta": "Book Your Trip",
+    "contactBtn": "Contact Us"
+  },
+  "services": {
+    "title": "Our Services",
+    "description": "We offer a wide range of travel services to make your journey perfect.",
+    "items": [
+      {
+        "title": "International Trips",
+        "description": "Explore breathtaking destinations worldwide with our carefully curated travel packages."
+      },
+      {
+        "title": "Hotel Booking",
+        "description": "Find and book the best hotels at competitive rates for a comfortable stay."
+      },
+      {
+        "title": "Flight Reservation",
+        "description": "Get the best deals on flights with our extensive network of airline partners."
+      },
+      {
+        "title": "Tour Packages",
+        "description": "Enjoy all-inclusive tour packages designed to give you the best travel experience."
+      },
+      {
+        "title": "Transportation",
+        "description": "Reliable and comfortable transportation services for all your travel needs."
+      },
+      {
+        "title": "Visa Assistance",
+        "description": "Hassle-free visa processing and documentation support for your trips."
+      }
+    ]
+  },
+  "about": {
+    "title": "About Us",
+    "description": "We are a leading travel agency dedicated to providing exceptional travel experiences. With years of expertise in the tourism industry, we ensure every journey is memorable and hassle-free.",
+    "mission": "Our Mission",
+    "missionText": "To make travel accessible and enjoyable for everyone by providing high-quality services at competitive prices.",
+    "vision": "Our Vision",
+    "visionText": "To become the most trusted travel partner globally, known for excellence and customer satisfaction.",
+    "stats": {
+      "years": "Years Experience",
+      "travelers": "Happy Travelers",
+      "destinations": "Destinations"
+    }
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "description": "Have a question or ready to plan your next trip? We'd love to hear from you.",
+    "info": "Contact Information",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "country": "Country",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "sending": "Sending..."
+    },
+    "validation": {
+      "nameRequired": "Name is required",
+      "nameMin": "Name must be at least 2 characters",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email address",
+      "phoneRequired": "Phone number is required",
+      "phoneMin": "Phone number must be at least 5 characters",
+      "countryRequired": "Country is required",
+      "countryMin": "Country must be at least 2 characters",
+      "messageRequired": "Message is required",
+      "messageMin": "Message must be at least 10 characters"
+    },
+    "details": {
+      "address": "123 Travel Street, Dubai, UAE",
+      "phone": "+971 50 123 4567",
+      "email": "info@travelco.com",
+      "hours": "Sat - Thu: 9:00 AM - 6:00 PM"
+    },
+    "success": "Your message was sent successfully. We will contact you soon.",
+    "error": "Something went wrong. Please try again."
+  },
+  "footer": {
+    "description": "Your trusted partner for unforgettable travel experiences around the world.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "copyright": "© 2026 Travel Agency. All rights reserved."
+  }
+}
