@@ -81,6 +81,10 @@
       "messageMin": "يجب أن تتكون الرسالة من 10 أحرف على الأقل"
     },
     "details": {
+      "addressLabel": "العنوان",
+      "phoneLabel": "الهاتف",
+      "emailLabel": "البريد الإلكتروني",
+      "hoursLabel": "ساعات العمل",
       "address": "١٢٣ شارع السفر، دبي، الإمارات العربية المتحدة",
       "phone": "+971 50 123 4567",
       "email": "info@travelco.com",

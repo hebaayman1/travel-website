@@ -62,10 +62,10 @@ export default function Contact() {
   }
 
   const contactDetails = [
-    { icon: MapPin, label: "Address", value: d("address") },
-    { icon: Phone, label: "Phone", value: d("phone") },
-    { icon: Mail, label: "Email", value: d("email") },
-    { icon: Clock, label: "Working Hours", value: d("hours") },
+    { icon: MapPin, label: d("addressLabel"), value: d("address") },
+    { icon: Phone, label: d("phoneLabel"), value: d("phone") },
+    { icon: Mail, label: d("emailLabel"), value: d("email") },
+    { icon: Clock, label: d("hoursLabel"), value: d("hours") },
   ]
 
   return (

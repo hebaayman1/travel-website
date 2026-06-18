@@ -81,6 +81,10 @@
       "messageMin": "Message must be at least 10 characters"
     },
     "details": {
+      "addressLabel": "Address",
+      "phoneLabel": "Phone",
+      "emailLabel": "Email",
+      "hoursLabel": "Working Hours",
       "address": "123 Travel Street, Dubai, UAE",
       "phone": "+971 50 123 4567",
       "email": "info@travelco.com",
